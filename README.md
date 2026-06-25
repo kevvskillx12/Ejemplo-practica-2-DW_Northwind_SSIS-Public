@@ -46,6 +46,11 @@ ETL_Northwind/
 ├── ETL_Northwind.slnx
 ├── .gitignore
 ├── README.md
+└── scripts/
+    ├── 01_crear_dw_northwind.sql
+    ├── 02_limpiar_dw.sql
+    ├── 03_consultas_ole_db_source_ssis.sql
+    ├── 04_validacion_resultados.sql
 └── ETL_Northwind/
     ├── CN_DW_Northwind.conmgr
     ├── CN_Northwind.conmgr
