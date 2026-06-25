@@ -1,3 +1,4 @@
+# Práctica 2 - Data Warehouse con Northwind
 # ETL Northwind - Data Warehouse
 
 Proyecto de práctica para crear un Data Warehouse basado en la base de datos Northwind utilizando SQL Server, SQL Server Management Studio, Visual Studio 2022 y SQL Server Integration Services.
